@@ -1,0 +1,20 @@
+[
+    {
+    id: 1,
+    title: "Medias Harry",
+    price: 240,
+    image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/901/382/products/hp2a1-00e740d022c9a3236016466955961660-1024-1024.jpg",
+    }, 
+    {
+    id: 2,
+    title: "Medias Hagrid",
+    price: 250,
+    image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/901/382/products/hp91-04a173098158298ea816433314613184-1024-1024.jpg",
+    }, 
+    {
+    id: 3,
+    title: "Medias Dobby",
+    price: 230,
+    image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/901/382/products/hp81-b7b1531941eba0a2a616477092568876-1024-1024.jpeg",
+    }
+]
